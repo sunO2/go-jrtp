@@ -1,0 +1,6 @@
+[submodule "external/JRTPLIB"]
+	path = external/JRTPLIB
+	url = https://github.com/j0r1/JRTPLIB.git
+[submodule "external/JThread"]
+	path = external/JThread
+	url = https://github.com/j0r1/JThread.git
